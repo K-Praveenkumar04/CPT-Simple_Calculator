@@ -7,12 +7,12 @@ def division(x, y):
    return x / y
 def raisePower(x, y):
    return x ** y
-print("Operation to perform:")
-print("1. Addition")
-print("2. Subtraction")
-print("3. Multiplication")
-print("4. Division")
-print("5. Raising a power to number")
+#print("Operation to perform:")
+#print("For addition, enter 1")
+#print("For subtraction, enter 2")
+#print("For multiplication, enter 3")
+#print("For division, enter 4")
+#print("For raising to a power, enter 5")
 
 choice = input("Enter choice: ")
 
