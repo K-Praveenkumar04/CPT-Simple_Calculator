@@ -1,4 +1,5 @@
 #SimpleCalculator
+#fix output
 def addition(x, y):
    return x + y
 def multiplication(x, y):
@@ -35,3 +36,5 @@ elif choice == '5':
 
 else:
    print("Please select a valid input.");
+
+   print (answer)()
